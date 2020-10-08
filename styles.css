@@ -139,6 +139,6 @@
   .div9font1 {
     font-size: 30px;
     font-family: MagicSparkleReg;
-    font-stretch: ultra-expanded;
+    transform:scaleY(2);
   }
   
