@@ -115,7 +115,23 @@
   
   /* Font Styling */
   
+  @font-face {
+      font-family: MagicSparkleReg;
+      src: url(fonts/Magic\ Sparkle.ttf) format("truetype");
+  }
+
+  @font-face {
+      font-family: MagazineReg;
+      src: url(fonts/Magazine.ttf) format("truetype");
+  }
+
+  @font-face {
+      font-family: Wanters;
+      src: url(fonts/The\ Wanters\ DEMO.ttf) format("truetype");
+  }
+
   .div9font1 {
     font-size: 20px;
+    font-family: MagicSparkleReg;
   }
   
