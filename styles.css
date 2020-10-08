@@ -127,8 +127,48 @@
   }
 
   @font-face {
+    font-family: MagazineBold;
+    src: url(fonts/Magazine-Bold.ttf) format("truetype");
+  }
+
+  @font-face {
       font-family: Wanters;
       src: url(fonts/The\ Wanters\ DEMO.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: BebasNeueReg;
+    src: url(fonts/BebasNeue-Regular.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: HammerKey;
+    src: url(fonts/HAMMK___.TTF) format("truetype");
+  }
+
+  @font-face {
+    font-family: Mermaid;
+    src: url(fonts/Mermaid1001.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: NixieOne;
+    src: url(fonts/NixieOne.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: RobotoReg;
+    src: url(fonts/Roboto-Regular.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: RobotoMed;
+    src:url(fonts/Roboto-Medium.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: Saddlebag;
+    src: url(fonts/Saddlebag.ttf) format("truetype");
   }
 
   .div1font {
