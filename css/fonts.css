@@ -12,3 +12,8 @@
     font-family: Wanters;
     src: url(/platform-ticket-falkowski-marroquin-blajsa/fonts/The\ Wanters\ DEMO.ttf) format("truetype");
 }
+
+@font-face {
+    font-family: BebasNeueReg;
+    src: url(/platform-ticket-falkowski-marroquin-blajsa/fonts/BebasNeue-Regular.ttf) format("truetype");
+}
