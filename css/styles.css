@@ -118,6 +118,13 @@ p.div9font1 {
   border-bottom: 2px solid black;
 }
 
+.div3 {
+  border-bottom: 2px solid black;
+}
+
+.div4 {
+  border-bottom: 2px solid black;
+}
 .lower-cases {
   font-family: lowerCases;
 }
