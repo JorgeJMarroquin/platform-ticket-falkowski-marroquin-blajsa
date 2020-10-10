@@ -4,26 +4,26 @@
 }   */
 @font-face {
     font-family: MagicSparkle;
-    src: url(/platform-ticket-falkowski-marroquin-blajsa/fonts/Magic\ Sparkle.ttf) format("truetype");
+    src: url(../fonts/Magic-Sparkle.ttf) format("truetype");
 
 }
 
 @font-face {
     font-family: Wanters;
-    src: url(/platform-ticket-falkowski-marroquin-blajsa/fonts/The\ Wanters\ DEMO.ttf) format("truetype");
+    src: url(../fonts/The-Wanters-DEMO.ttf) format("truetype");
 }
 
 @font-face {
     font-family: BebasNeueReg;
-    src: url(/platform-ticket-falkowski-marroquin-blajsa/fonts/BebasNeue-Regular.ttf) format("truetype");
+    src: url(../fonts/BebasNeue-Regular.ttf) format("truetype");
 }
 
 @font-face {
     font-family: RobotoReg;
-    src: url(/platform-ticket-falkowski-marroquin-blajsa/fonts/Roboto-Regular.ttf) format("truetype");
+    src: url(../fonts/Roboto-Regular.ttf) format("truetype");
 }
 
 @font-face {
     font-family: HighSchool;
-    src: url(/platform-ticket-falkowski-marroquin-blajsa/fonts/High-School.ttf) format("truetype");
+    src: url(../fonts/High-School.ttf) format("truetype");
 }
