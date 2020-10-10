@@ -1,5 +1,5 @@
 body {
-  background: #f2f2f2;
+  background: goldenrod;
   font-family: 'Questrial', sans-serif;
   display: flex;
   align-items: center;
@@ -8,7 +8,7 @@ body {
 }
 
 main {
-  background-color: #faa272;
+  background-color: lightcoral;
   width: 740px;
 }
 
@@ -33,7 +33,7 @@ p {
 }
 
 .ticket-body {
-  background-color: ivory;
+  background-color: lightcoral;
 }
 
 /* .parent {
@@ -79,6 +79,7 @@ p.div5font {
 
 .div6 {
   order: 5;
+  border-right: 2px solid black;
 }
 
 .div7 {
