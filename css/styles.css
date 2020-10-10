@@ -95,11 +95,6 @@ p.div8font {
   border-bottom: 2px solid black;
 }
 
-/* small caps */
-.small-caps {
-  font-variant: small-caps;
-}
-
 .lower-cases {
   font-family: lowerCases;
 }

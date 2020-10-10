@@ -42,3 +42,8 @@
     font-family: OptiAntique;
     src: url(../fonts/OPTIAntique-Bold.otf) format("truetype");
 }
+
+@font-face {
+    font-family: Grotesque;
+    src: url(../fonts/GrotesqueMTStd-Condensed.otf) format("truetype");
+}
