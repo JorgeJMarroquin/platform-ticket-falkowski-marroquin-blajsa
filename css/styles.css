@@ -41,9 +41,9 @@ p {
   grid-template-rows: 1fr;
 }
 
-.ticket-body {
-  /* background-color: ivory; */
-}
+/*.ticket-body {
+   background-color: ivory; 
+}*/
 
 /* .parent {
   display: grid;
