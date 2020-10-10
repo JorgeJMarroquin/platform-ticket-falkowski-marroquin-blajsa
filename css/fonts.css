@@ -27,3 +27,13 @@
     font-family: WoodPrintReg;
     src: url(../fonts/WoodPrint-Regular.otf) format("truetype");
 }
+
+@font-face {
+    font-family: OldSchool;
+    src: url(../fonts/OLDSSCH_.TTF) format("truetype");
+}
+
+@font-face {
+    font-family: OptiAntique;
+    src: url(../fonts/OPTIAntique-Bold.otf) format("truetype");
+}

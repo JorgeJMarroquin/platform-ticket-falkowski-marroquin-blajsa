@@ -58,7 +58,9 @@ p.div1font {
 }
 
 p.div2font {
-  font-size: 0.8em;
+  font-weight: bold;
+  font-size: 1em;
+  font-family: OldSchool;
 }
 
 p.div3font {
@@ -73,18 +75,29 @@ p.div4font1 {
 }
 
 p.div4font2 {
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   font-family: WoodPrintReg;
 }
 
 p.div5font {
   font-size: 1.8rem;
 }
+
+p.div8font {
+  font-size: 1.3rem;
+  font-family: OptiAntique;
+}
+
 .div1{
   border: 2px solid black;
 }
 .div2 {
   border-bottom: 2px solid black;
+}
+
+/* small caps */
+.small-caps {
+  font-variant: small-caps;
 }
 
 /*    stub */
