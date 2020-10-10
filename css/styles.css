@@ -124,6 +124,7 @@ p.div8font {
 
 .div6 {
   order: 5;
+  border-right: 2px solid black;
 }
 
 .div7 {
