@@ -102,6 +102,12 @@ p.div8font {
   font-family: OptiAntique;
 }
 
+p.div9font1 {
+  font-size: 2.5rem;
+  font-family: MagicSparkle;
+  word-spacing: 1.5rem;
+}
+
 .div1{
   border: 2px solid black;
 }
