@@ -22,3 +22,8 @@
     font-family: RobotoReg;
     src: url(/platform-ticket-falkowski-marroquin-blajsa/fonts/Roboto-Regular.ttf) format("truetype");
 }
+
+@font-face {
+    font-family: HighSchool;
+    src: url(/platform-ticket-falkowski-marroquin-blajsa/fonts/High-School.ttf) format("truetype");
+}
