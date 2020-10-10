@@ -90,6 +90,13 @@ p.div5font {
   padding-left: .5rem;
 }
 
+p.div6font {
+  font-size: 12px;
+  font-family: RobotoMed;
+  word-spacing: .5rem;
+  transform:scaleY(1.4);
+}
+
 p.div8font {
   font-size: 1.3rem;
   font-family: OptiAntique;
