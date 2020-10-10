@@ -7,3 +7,8 @@
     src: url(/platform-ticket-falkowski-marroquin-blajsa/fonts/Magic\ Sparkle.ttf) format("truetype");
 
 }
+
+@font-face {
+    font-family: Wanters;
+    src: url(/platform-ticket-falkowski-marroquin-blajsa/fonts/The\ Wanters\ DEMO.ttf) format("truetype");
+}
