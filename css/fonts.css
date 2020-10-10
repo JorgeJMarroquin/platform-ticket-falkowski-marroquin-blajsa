@@ -24,6 +24,11 @@
 }
 
 @font-face {
+    font-family: RobotoMed;
+    src: url(../fonts/Roboto-Medium.ttf) format("truetype");
+}
+
+@font-face {
     font-family: WoodPrintReg;
     src: url(../fonts/WoodPrint-Regular.otf) format("truetype");
 }
