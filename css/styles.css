@@ -100,6 +100,10 @@ p.div8font {
   font-variant: small-caps;
 }
 
+.lower-cases {
+  font-family: lowerCases;
+}
+
 /*    stub */
 
 .stub {

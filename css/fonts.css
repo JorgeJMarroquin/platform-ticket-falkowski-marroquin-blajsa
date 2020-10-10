@@ -34,6 +34,11 @@
 }
 
 @font-face {
+    font-family: LowerCases;
+    src: url(../fonts/OLDSH___.TTF) format("truetype");
+}
+
+@font-face {
     font-family: OptiAntique;
     src: url(../fonts/OPTIAntique-Bold.otf) format("truetype");
 }
