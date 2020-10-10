@@ -85,7 +85,9 @@ p.div5font {
   font-size: 2.5rem;
   font-family: MagicSparkle;
   transform:scaleY(2);
+  word-spacing: .5rem;
   padding-bottom: 1rem;
+  padding-left: .5rem;
 }
 
 p.div8font {
