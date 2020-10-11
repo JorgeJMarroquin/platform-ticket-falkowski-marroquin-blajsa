@@ -94,7 +94,7 @@ p.div5font {
   font-family: MagicSparkle;
   transform:scaleY(2);
   word-spacing: .5rem;
-  /*padding-bottom: 1rem;*/
+  padding-bottom: .7rem;
   padding-left: .5rem;
 }
 
