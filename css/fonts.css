@@ -57,3 +57,8 @@
     font-family: MagazineBold;
     src: url(../fonts/Magazine-Bold.ttf) format("truetype");
 }
+
+@font-face {
+    font-family: LibreBold;
+    src: url(../fonts/LibreBaskerville-Bold.ttf) format("truetype");
+}

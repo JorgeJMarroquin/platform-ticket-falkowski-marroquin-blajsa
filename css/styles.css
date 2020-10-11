@@ -26,7 +26,7 @@ main {
 }
 
 .ticket-body div {
-  padding: 0.4rem;
+  padding: 0.2rem;
 }
 
 p {
@@ -50,9 +50,11 @@ p {
   grid-template-rows: 8fr 1fr 4fr 8fr 4fr;
 } */
 
+
 p.div1font {
   font-size: 2.4rem;
   padding-top: .2rem;
+  padding-bottom: .2rem;
   word-spacing: .75rem;
   font-family: Wanters;
   transform:scaleY(1.5);
@@ -60,27 +62,29 @@ p.div1font {
 
 p.div2font {
   font-weight: bold;
-  font-size: 1em;
+  font-size: 1.3rem;
   font-family: OldSchool;
+  padding-bottom: .2rem;
 }
 
 p.div3font {
   font-weight: bold;
-  font-size: 1.1em;
+  font-size: 1.6em;
   word-spacing: .5rem;
-  letter-spacing: .2rem;
+  letter-spacing: .1rem;
   transform:scaleY(1.2);
 }
 
 p.div4font1 {
   font-weight: 600;
+  font-size: 1.3rem;
   font-family: RobotoMed;
-  word-spacing: 2rem;
+  word-spacing: 1rem;
   letter-spacing: .25rem;
 }
 
 p.div4font2 {
-  font-size: 2.5rem;
+  font-size: 2.6rem;
   font-family: WoodPrintReg;
 }
 
@@ -89,16 +93,17 @@ p.div5font {
   font-family: MagicSparkle;
   transform:scaleY(2);
   word-spacing: .5rem;
-  padding-bottom: 1rem;
+  /*padding-bottom: 1rem;*/
   padding-left: .5rem;
 }
 
 p.div6font {
-  font-size: 12px;
+  font-weight: bold;
+  font-size: 15px;
   font-family: RobotoMed;
-  word-spacing: .5rem;
+  word-spacing: .4rem;
   transform:scaleY(1.4);
-  padding-right: .35rem;
+  padding-right: .2rem;
 }
 
 p.div7font {
@@ -108,22 +113,24 @@ p.div7font {
 }
 
 p.div8font {
-  font-size: 1.3rem;
+  font-size: 1.6rem;
   font-family: OptiAntique;
+  padding-right: 5px;
+  padding-left: 5px;
 }
 
 p.div9font1 {
   font-size: 2.5rem;
   font-family: MagicSparkle;
   word-spacing: 1.5rem;
-  padding-right: .5rem;
+  padding-right: 0.1rem;
   transform:scaleX(2);
 }
 
 p.div9font2 {
-  font-size: 1.3rem;
-  font-family: MagazineBold;
-  padding-right: 2rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  font-family: LibreBold;
   transform:scaleY(1.09);
 }
 
@@ -149,7 +156,7 @@ p.div9font2 {
 
 .stub {
   display: grid;
-  width: 100%;
+  width: 92%;
   writing-mode: vertical-rl;
   padding: .4rem;
 }
@@ -176,6 +183,6 @@ p.div9font2 {
 /* original width was 32px */
 .div10 {
   order: 1;
-  width: 60px;
+  width: 35px;
   outline: none;
 }
