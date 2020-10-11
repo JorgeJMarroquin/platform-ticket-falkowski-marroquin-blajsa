@@ -98,7 +98,7 @@ p.div6font {
   font-family: RobotoMed;
   word-spacing: .5rem;
   transform:scaleY(1.4);
-  padding-right: 1.5rem;
+  padding-right: .5rem;
 }
 
 p.div7font {
@@ -117,12 +117,13 @@ p.div9font1 {
   font-family: MagicSparkle;
   word-spacing: 1.5rem;
   padding-right: .5rem;
+  transform:scaleX(2);
 }
 
 p.div9font2 {
   font-size: 1.3rem;
   font-family: MagazineBold;
-  padding-right: 1.75rem;
+  padding-right: 2rem;
   transform:scaleY(1.09);
 }
 
