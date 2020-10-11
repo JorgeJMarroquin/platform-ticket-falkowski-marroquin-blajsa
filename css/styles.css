@@ -173,9 +173,9 @@ p.div9font2 {
   order: 2;
   border-right: 2px solid black;
 }
-
+/* original width was 32px */
 .div10 {
   order: 1;
-  width: 32px;
+  width: 60px;
   outline: none;
 }
