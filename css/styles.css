@@ -123,19 +123,20 @@ p.div8font {
 }
 
 p.div9font1 {
-  font-size: 2.5rem;
+  font-size: 2.4rem;
   font-weight: bold;
   font-family: MagicSparkle;
   word-spacing: 1.5rem;
-  padding-right: 0.1rem;
-  transform:scaleX(2);
+  /*padding-right: .5rem;*/
+  transform:scaleX(1.6);
 }
 
 p.div9font2 {
-  font-size: 1.2rem;
+  font-size: 1.15rem;
   font-weight: bold;
   font-family: LibreBold;
   transform:scaleY(1.09);
+  padding-right: 1rem;
 }
 
 .div1{
@@ -187,6 +188,6 @@ p.div9font2 {
 /* original width was 32px */
 .div10 {
   order: 1;
-  width: 35px;
+  width: 32px;
   outline: none;
 }
