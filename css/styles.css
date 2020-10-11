@@ -98,6 +98,7 @@ p.div6font {
   font-family: RobotoMed;
   word-spacing: .5rem;
   transform:scaleY(1.4);
+  padding-right: 1.5rem;
 }
 
 p.div8font {
