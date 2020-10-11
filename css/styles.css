@@ -15,6 +15,8 @@ body {
   https://www.download-free-fonts.com/details/113244/golden-type-itc-std
 */
 
+/* styling for main structure of the ticket */
+
 main {
   width: 740px;
   background-color: #faa272;
@@ -50,6 +52,7 @@ p {
   grid-template-rows: 8fr 1fr 4fr 8fr 4fr;
 } */
 
+/* styling for individual fonts, use padding and transform for final adjustments*/
 
 p.div1font {
   font-size: 2.4rem;
@@ -139,6 +142,8 @@ p.div9font2 {
   padding-right: 1rem;
 }
 
+/* styling for grid containers themselves, mainly for border and lower cases */
+
 .div1{
   border: 2px solid black;
 }
@@ -157,7 +162,7 @@ p.div9font2 {
   font-family: lowerCases;
 }
 
-/*    stub */
+/* styling for ticket stub portion of the ticket, the sideways part, including bordering */
 
 .stub {
   display: grid;
