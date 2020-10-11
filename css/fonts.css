@@ -2,6 +2,7 @@
     font-family: NAME;
     src: url(fonts/fontNAME) format("truetype or woff2"); 
 }   */
+
 @font-face {
     font-family: MagicSparkle;
     src: url(../fonts/Magic-Sparkle.ttf) format("truetype");
