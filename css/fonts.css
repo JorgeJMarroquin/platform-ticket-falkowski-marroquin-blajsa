@@ -52,3 +52,8 @@
     font-family: Grotesque;
     src: url(../fonts/GrotesqueMTStd-Condensed.otf) format("truetype");
 }
+
+@font-face {
+    font-family: MagazineBold;
+    src: url(../fonts/Magazine-Bold.ttf) format("truetype");
+}
