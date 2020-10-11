@@ -101,6 +101,12 @@ p.div6font {
   padding-right: 1.5rem;
 }
 
+p.div7font {
+  font-family: 'Times New Roman', Times, serif;
+  transform:scaleY(1.4);
+  padding-right: .4rem;
+}
+
 p.div8font {
   font-size: 1.3rem;
   font-family: OptiAntique;
