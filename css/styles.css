@@ -84,12 +84,13 @@ p.div4font1 {
 }
 
 p.div4font2 {
-  font-size: 2.6rem;
+  font-size: 2.7rem;
   font-family: WoodPrintReg;
 }
 
 p.div5font {
   font-size: 2.5rem;
+  font-weight: bold;
   font-family: MagicSparkle;
   transform:scaleY(2);
   word-spacing: .5rem;
@@ -99,7 +100,7 @@ p.div5font {
 
 p.div6font {
   font-weight: bold;
-  font-size: 15px;
+  font-size: 13.5px;
   font-family: RobotoMed;
   word-spacing: .4rem;
   transform:scaleY(1.4);
@@ -108,6 +109,8 @@ p.div6font {
 
 p.div7font {
   font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  font-weight: bold;
   transform:scaleY(1.4);
   padding-right: .2rem;
 }
@@ -121,6 +124,7 @@ p.div8font {
 
 p.div9font1 {
   font-size: 2.5rem;
+  font-weight: bold;
   font-family: MagicSparkle;
   word-spacing: 1.5rem;
   padding-right: 0.1rem;
