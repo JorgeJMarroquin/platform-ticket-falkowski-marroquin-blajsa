@@ -147,6 +147,7 @@ p.div9font2 {
 .div1{
   border: 2px solid black;
 }
+
 .div2 {
   border-bottom: 2px solid black;
 }
@@ -158,6 +159,7 @@ p.div9font2 {
 .div4 {
   border-bottom: 2px solid black;
 }
+
 .lower-cases {
   font-family: lowerCases;
 }
