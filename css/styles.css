@@ -104,7 +104,7 @@ p.div6font {
 p.div7font {
   font-family: 'Times New Roman', Times, serif;
   transform:scaleY(1.4);
-  padding-right: .4rem;
+  padding-right: .2rem;
 }
 
 p.div8font {
@@ -116,11 +116,14 @@ p.div9font1 {
   font-size: 2.5rem;
   font-family: MagicSparkle;
   word-spacing: 1.5rem;
-  padding-left: .3rem;
+  padding-right: .5rem;
 }
 
 p.div9font2 {
+  font-size: 1.3rem;
   font-family: MagazineBold;
+  padding-right: 1.75rem;
+  transform:scaleY(1.09);
 }
 
 .div1{
