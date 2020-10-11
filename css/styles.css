@@ -171,6 +171,7 @@ p.div9font2 {
 
 .div9 {
   order: 2;
+  border-right: 2px solid black;
 }
 
 .div10 {
