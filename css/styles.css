@@ -1,6 +1,6 @@
 body {
   background: #f2f2f2;
-  font-family: 'Questrial', sans-serif;
+  font-family: "Questrial", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -19,10 +19,10 @@ body {
 
 main {
   width: 740px;
-  background-color: #faa272;
+  background-color: #4a2c1c;
   background-color: #fa8c32;
   background-color: #fa7305;
-  background-image: url('./textured-paper.png');
+  background-image: url("./textured-paper.png");
   border-radius: 0.2rem;
   box-shadow: 2px 3px 20px rgba(0, 0, 0, 0.571), 0 0 60px #cd7013 inset;
 }
@@ -56,26 +56,26 @@ p {
 
 p.div1font {
   font-size: 2.4rem;
-  padding-top: .5rem;
-  padding-bottom: .2rem;
-  word-spacing: .75rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.2rem;
+  word-spacing: 0.75rem;
   font-family: Wanters;
-  transform:scaleY(1.5);
+  transform: scaleY(1.5);
 }
 
 p.div2font {
   font-weight: bold;
   font-size: 1.3rem;
   font-family: OldSchool;
-  padding-bottom: .2rem;
+  padding-bottom: 0.2rem;
 }
 
 p.div3font {
   font-weight: bold;
   font-size: 1.6em;
-  word-spacing: .5rem;
-  letter-spacing: .1rem;
-  transform:scaleY(1.2);
+  word-spacing: 0.5rem;
+  letter-spacing: 0.1rem;
+  transform: scaleY(1.2);
 }
 
 p.div4font1 {
@@ -83,7 +83,7 @@ p.div4font1 {
   font-size: 1.3rem;
   font-family: RobotoMed;
   word-spacing: 1rem;
-  letter-spacing: .25rem;
+  letter-spacing: 0.25rem;
 }
 
 p.div4font2 {
@@ -95,27 +95,27 @@ p.div5font {
   font-size: 2.5rem;
   font-weight: bold;
   font-family: MagicSparkle;
-  transform:scaleY(2);
-  word-spacing: .5rem;
-  padding-bottom: .95rem;
-  padding-left: .5rem;
+  transform: scaleY(2);
+  word-spacing: 0.5rem;
+  padding-bottom: 0.95rem;
+  padding-left: 0.5rem;
 }
 
 p.div6font {
   font-weight: bold;
   font-size: 13.5px;
   font-family: RobotoMed;
-  word-spacing: .4rem;
-  transform:scaleY(1.4);
-  padding-right: .2rem;
+  word-spacing: 0.4rem;
+  transform: scaleY(1.4);
+  padding-right: 0.2rem;
 }
 
 p.div7font {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 16px;
   font-weight: bold;
-  transform:scaleY(1.4);
-  padding-right: .2rem;
+  transform: scaleY(1.4);
+  padding-right: 0.2rem;
 }
 
 p.div8font {
@@ -131,20 +131,20 @@ p.div9font1 {
   font-family: MagicSparkle;
   word-spacing: 1.5rem;
   /*padding-right: .5rem;*/
-  transform:scaleX(1.6);
+  transform: scaleX(1.6);
 }
 
 p.div9font2 {
   font-size: 1.15rem;
   font-weight: bold;
   font-family: LibreBold;
-  transform:scaleY(1.09);
+  transform: scaleY(1.09);
   padding-right: 1rem;
 }
 
 /* styling for grid containers themselves, mainly for border and lower cases */
 
-.div1{
+.div1 {
   border: 2px solid black;
 }
 
@@ -170,7 +170,7 @@ p.div9font2 {
   display: grid;
   width: 92%;
   writing-mode: vertical-rl;
-  padding: .4rem;
+  padding: 0.4rem;
 }
 
 .div6 {
